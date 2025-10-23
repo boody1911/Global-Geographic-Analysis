@@ -1,24 +1,6 @@
 <img width="794" height="507" alt="Screenshot 2025-10-23 162741" src="https://github.com/user-attachments/assets/63386447-8d5d-4e63-8c66-88a39aac5959" /># 🌍 Global Geographic Analysis Dashboard
 
-![Dashboard Preview](<img width="802" height="505" alt="education_dashboard" src="https://github.com/user-attachments/assets/fc7eccb4-16be-4579-a70a-ba4546c857be" />
-,<img width="794" height="507" alt="economy_dashboard" src="https://github.com/user-attachments/assets/fa12b661-18f8-4c38-814c-dce2375a3003" />
-,<img width="804" height="511" alt="population_dashboard" src="https://github.com/user-attachments/assets/a03fea68-5781-42db-b5a9-0fc0ac9f52a3" />
-)
-
-## 📋 Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Dashboards](#dashboards)
-- [Data Source](#data-source)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Key Insights](#key-insights)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
+![Dashboard Preview]
 ## 🎯 Overview
 
 This project presents an interactive geographic analysis system that visualizes critical global development indicators across three comprehensive dashboards. The system processes and presents data from 195+ countries, enabling users to explore relationships between population demographics, education systems, and economic performance.
@@ -131,34 +113,6 @@ The raw dataset required significant preprocessing to ensure accuracy and consis
 - **Version Control**: Git & GitHub
 - **Data Format**: CSV
 
-## 📥 Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/global-geographic-analysis.git
-
-# Navigate to project directory
-cd global-geographic-analysis
-
-# Install dependencies (if applicable)
-pip install -r requirements.txt
-
-# Or if using npm
-npm install
-```
-
-## 🚀 Usage
-
-```bash
-# If using Python
-python dashboard.py
-
-# If using Tableau/Power BI
-# Open the .twbx or .pbix file in the respective application
-
-# Access the live dashboard (if hosted)
-# Visit: https://your-dashboard-link.com
-```
 
 ## 💡 Key Insights
 
@@ -176,7 +130,6 @@ python dashboard.py
 - [ ] Implement predictive modeling for future trends
 - [ ] Include additional metrics (healthcare, infrastructure)
 - [ ] Add drill-down functionality for city-level data
-- [ ] Create mobile-responsive version
 - [ ] Implement real-time data updates via API
 - [ ] Add export functionality for custom reports
 - [ ] Include narrative insights and recommendations
@@ -229,12 +182,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Contact
 
-**Your Name**
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-- Portfolio: [your-portfolio.com](https://your-portfolio.com)
 
-**Project Link**: [https://github.com/yourusername/global-geographic-analysis](https://github.com/yourusername/global-geographic-analysis)
+- LinkedIn: (https://www.linkedin.com/in/abdallaatarekk/)
+- Email: abdallaht12012005@gmail.com
+- Portfolio:([https://boody1911.github.io/abdallah-portfolio/)
+
+**Project Link**:(https://github.com/boody1911/global-geographic-analysis)
 
 ---
 
@@ -250,13 +203,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 ### Population & Demographics
-![Population Dashboard](images/population_dashboard.png)
+![Population Dashboard](<img width="804" height="511" alt="population_dashboard" src="https://github.com/user-attachments/assets/d76384ab-f9f9-4ee8-8bbf-4fb317692703" />
+)
 
 ### Education & Literacy
-![Education Dashboard](images/education_dashboard.png)
+![Education Dashboard](<img width="794" height="507" alt="economy_dashboard" src="https://github.com/user-attachments/assets/0c96fe26-2676-434c-b006-45789625c111" />
+)
 
 ### Employment & Economy
-![Economy Dashboard](images/economy_dashboard.png)
+![Economy Dashboard](<img width="802" height="505" alt="education_dashboard" src="https://github.com/user-attachments/assets/2c6d60fa-0fed-45af-8056-7bfe8d795ca2" />
+)
 
 ---
 
