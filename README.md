@@ -201,18 +201,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📊 Dashboard Previews!
 
-
 ### Population & Demographics
-![Population Dashboard](<img width="804" height="511" alt="population_dashboard" src="https://github.com/user-attachments/assets/d76384ab-f9f9-4ee8-8bbf-4fb317692703" />
-)
+![Population Dashboard](https://github.com/user-attachments/assets/d76384ab-f9f9-4ee8-8bbf-4fb317692703)
 
 ### Education & Literacy
-![Education Dashboard](<img width="794" height="507" alt="economy_dashboard" src="https://github.com/user-attachments/assets/0c96fe26-2676-434c-b006-45789625c111" />
-)
+![Education Dashboard](https://github.com/user-attachments/assets/0c96fe26-2676-434c-b006-45789625c111)
 
 ### Employment & Economy
-![Economy Dashboard](<img width="802" height="505" alt="education_dashboard" src="https://github.com/user-attachments/assets/2c6d60fa-0fed-45af-8056-7bfe8d795ca2" />
-)
+![Economy Dashboard](https://github.com/user-attachments/assets/2c6d60fa-0fed-45af-8056-7bfe8d795ca2)
 
 ---
 
