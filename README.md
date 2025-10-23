@@ -1,6 +1,5 @@
 # 🌍 Global Geographic Analysis Dashboard
 
-![Dashboard Preview]
 ## 🎯 Overview
 
 This project presents an interactive geographic analysis system that visualizes critical global development indicators across three comprehensive dashboards. The system processes and presents data from 195+ countries, enabling users to explore relationships between population demographics, education systems, and economic performance.
