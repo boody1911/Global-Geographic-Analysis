@@ -53,7 +53,7 @@ This project presents an interactive geographic analysis system that visualizes 
 
 **Primary Source**: [World Population Review](https://worldpopulationreview.com/)
 
-**Data Collection Period**: [Add your collection date]
+**Data Collection Period**: [17/10/2025]
 
 **Coverage**: 195+ countries across 6 continents
 
