@@ -1,4 +1,4 @@
-<img width="794" height="507" alt="Screenshot 2025-10-23 162741" src="https://github.com/user-attachments/assets/63386447-8d5d-4e63-8c66-88a39aac5959" /># 🌍 Global Geographic Analysis Dashboard
+# 🌍 Global Geographic Analysis Dashboard
 
 ![Dashboard Preview]
 ## 🎯 Overview
